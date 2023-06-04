@@ -1,0 +1,7 @@
+plugins {
+    id 'com.programpanel.library'
+}
+
+dependencies {
+    implementation(project(':domain:plugin'))
+}
