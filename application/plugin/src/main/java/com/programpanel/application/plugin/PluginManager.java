@@ -1,6 +1,6 @@
 package com.programpanel.application.plugin;
 
-import com.programpanel.domain.plugin.Plugin;
+import com.programpanel.domain.plugin.entity.Plugin;
 
 /**
  * Manages the plugin lifecycle.
