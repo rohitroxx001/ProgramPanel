@@ -1,4 +1,6 @@
-![GitHub](https://img.shields.io/github/license/programpanel/programpanel)
+![License](https://img.shields.io/github/license/ProgramPanel/ProgramPanel)
+![Build and Test](https://github.com/ProgramPanel/ProgramPanel/actions/workflows/build-test.yml/badge.svg)
+
 
 # ProgramPanel
 ProgramPanel is a launchpad for initiating Java web projects. It's centered around a plugin system, allowing for simple
